@@ -1,0 +1,106 @@
+{
+  "resolvedId": "/Users/drew/Projects/Web/gl-ui-openclash/src/App.vue",
+  "transforms": [
+    {
+      "name": "vite:load-fallback",
+      "result": "<template>\n   <div></div>\n   \n</template>\n<script>\nexport default {\n    created() {\n        console.log(this);\n    },\n};\n</script>\n<style scoped>\nheader {\n    line-height: 1.5;\n}\n\n.logo {\n    display: block;\n    margin: 0 auto 2rem;\n}\n\n@media (min-width: 1024px) {\n    header {\n        display: flex;\n        place-items: center;\n        padding-right: calc(var(--section-gap) / 2);\n    }\n\n    .logo {\n        margin: 0 2rem 0 0;\n    }\n\n    header .wrapper {\n        display: flex;\n        place-items: flex-start;\n        flex-wrap: wrap;\n    }\n}\n</style>\n",
+      "start": 1693736706566,
+      "end": 1693736706567,
+      "sourcemaps": null
+    },
+    {
+      "name": "vite:css",
+      "start": 1693736706567,
+      "end": 1693736706567,
+      "order": "normal"
+    },
+    {
+      "name": "vite:esbuild",
+      "start": 1693736706568,
+      "end": 1693736706568,
+      "order": "normal"
+    },
+    {
+      "name": "vite:json",
+      "start": 1693736706568,
+      "end": 1693736706568,
+      "order": "normal"
+    },
+    {
+      "name": "vite:worker",
+      "start": 1693736706568,
+      "end": 1693736706568,
+      "order": "normal"
+    },
+    {
+      "name": "vite:vue2",
+      "result": "\nconst _sfc_main = {\n    created() {\n        console.log(this);\n    },\n};\n\nvar _sfc_render = function render(){var _vm=this,_c=_vm._self._c;return _c('div')\n}\nvar _sfc_staticRenderFns = []\n\n\nimport \"/Users/drew/Projects/Web/gl-ui-openclash/src/App.vue?vue&type=style&index=0&scoped=7861ac0a&lang.css\"\n\n/* normalize component */\nimport __normalizer from \"plugin-vue2:normalizer\"\nvar __component__ = /*#__PURE__*/__normalizer(\n  _sfc_main,\n  _sfc_render,\n  _sfc_staticRenderFns,\n  false,\n  null,\n  \"7861ac0a\",\n  null,\n  null\n)\nexport default __component__.exports",
+      "start": 1693736706568,
+      "end": 1693736706582,
+      "order": "normal",
+      "sourcemaps": {
+        "mappings": ""
+      }
+    },
+    {
+      "name": "vite:define",
+      "start": 1693736706582,
+      "end": 1693736706583,
+      "order": "normal"
+    },
+    {
+      "name": "vite:css-post",
+      "start": 1693736706583,
+      "end": 1693736706583,
+      "order": "normal"
+    },
+    {
+      "name": "vite:build-html",
+      "start": 1693736706583,
+      "end": 1693736706583,
+      "order": "normal"
+    },
+    {
+      "name": "vite:worker-import-meta-url",
+      "start": 1693736706583,
+      "end": 1693736706584,
+      "order": "normal"
+    },
+    {
+      "name": "vite:asset-import-meta-url",
+      "start": 1693736706584,
+      "end": 1693736706584,
+      "order": "normal"
+    },
+    {
+      "name": "commonjs",
+      "start": 1693736706584,
+      "end": 1693736706584,
+      "order": "normal"
+    },
+    {
+      "name": "vite:dynamic-import-vars",
+      "start": 1693736706584,
+      "end": 1693736706584,
+      "order": "normal"
+    },
+    {
+      "name": "vite:import-glob",
+      "start": 1693736706584,
+      "end": 1693736706584,
+      "order": "normal"
+    },
+    {
+      "name": "vite:build-import-analysis",
+      "start": 1693736706584,
+      "end": 1693736706585,
+      "order": "normal"
+    },
+    {
+      "name": "vite:reporter",
+      "start": 1693736706585,
+      "end": 1693736706585,
+      "order": "normal"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "root": "/Users/drew/Projects/Web/gl-ui-openclash",
+  "modules": [
+    {
+      "id": "/Users/drew/Projects/Web/gl-ui-openclash/src/App.vue",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:load-fallback",
+          "transform": 1
+        },
+        {
+          "name": "vite:vue2",
+          "transform": 14
+        }
+      ],
+      "virtual": false,
+      "totalTime": 15
+    },
+    {
+      "id": "/Users/drew/Projects/Web/gl-ui-openclash/src/App.vue?vue&type=style&index=0&scoped=7861ac0a&lang.css",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:vue2",
+          "transform": 0
+        },
+        {
+          "name": "vite:css",
+          "transform": 11
+        },
+        {
+          "name": "vite:vue2",
+          "transform": 7
+        },
+        {
+          "name": "vite:css-post",
+          "transform": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 18
+    },
+    {
+      "id": "plugin-vue2:normalizer",
+      "deps": [],
+      "plugins": [
+        {
+          "name": "vite:vue2",
+          "transform": 0
+        }
+      ],
+      "virtual": true,
+      "totalTime": 0
+    }
+  ],
+  "ssrModules": []
+}

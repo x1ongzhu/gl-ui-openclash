@@ -1,0 +1,317 @@
+@font-face {
+    font-family: iconfont;
+    src: url(./fonts/iconfont.ce95ec2d.woff2) format("woff2")
+}
+.iconfont {
+    font-family: iconfont !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.icon-clock-rotate-left:before {
+    content: "\e61e";
+}
+.icon-clear:before {
+    content: "\e61d";
+}
+.icon-cellular-lock:before {
+    content: "\e616";
+}
+.icon-lock-open:before {
+    content: "\e6fb";
+}
+.icon-simcard:before {
+    content: "\e60b";
+}
+.icon-full-signal:before {
+    content: "\e602";
+}
+.icon-save:before {
+    content: "\e66e";
+}
+.icon-manageprofiles:before {
+    content: "\e66d";
+}
+.icon-preview:before {
+    content: "\e65f";
+}
+.icon-bluetooth:before {
+    content: "\e658";
+}
+.icon-access:before {
+    content: "\e655";
+}
+.icon-edgerouter:before {
+    content: "\e649";
+}
+.icon-camera:before {
+    content: "\e643";
+}
+.icon-pad:before {
+    content: "\e644";
+}
+.icon-watch:before {
+    content: "\e645";
+}
+.icon-television:before {
+    content: "\e63b";
+}
+.icon-smartappliances:before {
+    content: "\e63c";
+}
+.icon-games:before {
+    content: "\e63d";
+}
+.icon-gateway:before {
+    content: "\e63e";
+}
+.icon-phone:before {
+    content: "\e62f";
+}
+.icon-computer:before {
+    content: "\e630";
+}
+.icon-printer:before {
+    content: "\e633";
+}
+.icon-sound:before {
+    content: "\e634";
+}
+.icon-laptop:before {
+    content: "\e635";
+}
+.icon-fan-setting:before {
+    content: "\e62d";
+}
+.icon-switch:before {
+    content: "\e617";
+}
+.icon-battery:before {
+    content: "\e613";
+}
+.icon-bolt:before {
+    content: "\e611";
+}
+.icon-led:before {
+    content: "\e60e";
+}
+.icon-vlan:before {
+    content: "\e605";
+}
+.icon-tflash:before {
+    content: "\e608";
+}
+.icon-flash:before {
+    content: "\e60f";
+}
+.icon-clock:before {
+    content: "\e9fb";
+}
+.icon-thread:before {
+    content: "\e70e";
+}
+.icon-toggle:before {
+    content: "\e7e7";
+}
+.icon-play:before {
+    content: "\e912";
+}
+.icon-stop:before {
+    content: "\e9b6";
+}
+.icon-palette:before {
+    content: "\e8de";
+}
+.icon-sort-down:before {
+    content: "\e983";
+}
+.icon-eject:before {
+    content: "\e76e";
+}
+.icon-clients:before {
+    content: "\e9ff";
+}
+.icon-upload:before {
+    content: "\e9fe";
+}
+.icon-delete:before {
+    content: "\e9fd";
+}
+.icon-edit:before {
+    content: "\e9fa";
+}
+.icon-check:before {
+    content: "\e9f9";
+}
+.icon-network:before {
+    content: "\e9f8";
+}
+.icon-copy:before {
+    content: "\e9f7";
+}
+.icon-export:before {
+    content: "\e9f6";
+}
+.icon-wlan-client:before {
+    content: "\e9f5";
+}
+.icon-lan-client:before {
+    content: "\e9f4";
+}
+.icon-warning:before {
+    content: "\e9f3";
+}
+.icon-plus:before {
+    content: "\e915";
+}
+.icon-internet-ethernet:before {
+    content: "\e9e5";
+}
+.icon-internet-cellular:before {
+    content: "\e9e6";
+}
+.icon-internet-repeater:before {
+    content: "\e9e7";
+}
+.icon-internet-tethering:before {
+    content: "\e9f1";
+}
+.icon-wifi-2g:before {
+    content: "\e9ed";
+}
+.icon-guest-wifi-2g:before {
+    content: "\e9ee";
+}
+.icon-wifi-5g:before {
+    content: "\e9ef";
+}
+.icon-guest-wifi-5g:before {
+    content: "\e9f0";
+}
+.icon-arrow-up:before {
+    content: "\e9ec";
+}
+.icon-action:before {
+    content: "\e9e8";
+}
+.icon-block:before {
+    content: "\e9e9";
+}
+.icon-speed:before {
+    content: "\e9ea";
+}
+.icon-speed-limit:before {
+    content: "\e9eb";
+}
+.icon-application:before {
+    content: "\e9dc";
+}
+.icon-firewall:before {
+    content: "\e9dd";
+}
+.icon-upgrade:before {
+    content: "\e9de";
+}
+.icon-setting:before {
+    content: "\e9df";
+}
+.icon-vpn:before {
+    content: "\e9e0";
+}
+.icon-internet:before {
+    content: "\e9e1";
+}
+.icon-wireless:before {
+    content: "\e9e2";
+}
+.icon-lan:before {
+    content: "\e9e4";
+}
+.icon-show:before {
+    content: "\e780";
+}
+.icon-hide:before {
+    content: "\e789";
+}
+.icon-tethering:before {
+    content: "\e9d4";
+}
+.icon-vpn1:before {
+    content: "\e9a2";
+}
+.icon-reboot:before {
+    content: "\e9a1";
+}
+.icon-error:before {
+    content: "\e738";
+}
+.icon-success:before {
+    content: "\e6ce";
+}
+.icon-lock:before {
+    content: "\e6fa";
+}
+.icon-wrong:before {
+    content: "\e739";
+}
+.icon-info:before {
+    content: "\e6f5";
+}
+.icon-compress:before {
+    content: "\e6d3";
+}
+.icon-expand:before {
+    content: "\e6dc";
+}
+.icon-chevron-down:before {
+    content: "\e6cd";
+}
+.icon-envelope:before {
+    content: "\e6da";
+}
+.icon-tools:before {
+    content: "\e73f";
+}
+.icon-guest-wifi:before {
+    content: "\e99e";
+}
+.icon-thermometer-half:before {
+    content: "\e73b";
+}
+.icon-wifi:before {
+    content: "\e99b";
+}
+.icon-tor:before {
+    content: "\e996";
+}
+.icon-idsips:before {
+    content: "\e997";
+}
+.icon-adguard:before {
+    content: "\e998";
+}
+.icon-ipv6:before {
+    content: "\e999";
+}
+.icon-modem:before {
+    content: "\e992";
+}
+.icon-question-circle:before {
+    content: "\e716";
+}
+.icon-redo-alt:before {
+    content: "\e718";
+}
+.icon-sign-out-alt:before {
+    content: "\e724";
+}
+.icon-search:before {
+    content: "\e660";
+}
+.icon-collapse:before {
+    content: "\e607";
+}
+.icon-loading:before {
+    content: "\e659";
+}
